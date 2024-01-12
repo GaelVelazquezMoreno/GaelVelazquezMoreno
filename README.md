@@ -1,6 +1,6 @@
 # Introduction
 
-
+print("Hello my friend")
 This is a repository created by *Gael Velazquez Moreno*
 
 
